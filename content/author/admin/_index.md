@@ -16,16 +16,17 @@ role = "Postdoctoral Research Associate"
 organizations = [ { name = "Louisiana State University", url = "https://www.lsu.edu/cce/research/ENVS_directory.php" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include location-based social media, spatial statistics, spatial econometrics, and GIScience."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Location-based social media",
+  "Spatial Statistics",
+  "Spatial Econometrics"
+  "GIScience"
 ]
 
 # Organizational groups that you belong to (for People widget)
