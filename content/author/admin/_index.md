@@ -25,7 +25,7 @@ email = ""
 interests = [
   "Location-based social media",
   "Spatial Statistics",
-  "Spatial Econometrics"
+  "Spatial Econometrics",
   "GIScience"
 ]
 
