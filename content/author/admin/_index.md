@@ -83,6 +83,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Zheye Wang is a postdoctoral research associate in the Department of Environmental Sciences at Louisiana State University. His research interests include location-based social media, spatial statistics, spatial econometrics, regional science, and GIScience. His current research concentrates on advancing geographical information science (GIS) approaches for better understating of the human dimensions of environmental change. Specifically, he analyzes big geosocial data to enrich human-centric information for natural disaster management and uses geospatial techniques including spatial statistics and spatial econometrics to investigate the patterns, processes, and mechanisms of carbon dioxide emissions and air pollution.
