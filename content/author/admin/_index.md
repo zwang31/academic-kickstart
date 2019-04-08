@@ -21,12 +21,13 @@ bio = "My research interests include location-based social media, spatial statis
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
-# List (academic) interests or hobbies
+# List () interests or hobbies
 interests = [
   "Location-based social media",
   "Spatial Statistics",
   "Spatial Econometrics",
-  "GIScience"
+  "GIScience",
+  "Regional Science"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -35,19 +36,19 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Geography"
+  institution = "Kent State University"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MS in Human/Economic Geography"
+  institution = "University of Chinese Academy of Sciences"
+  year = 2014
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BS in Urban and Regional Planning"
+  institution = "Shandong Normal University"
+  year = 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
