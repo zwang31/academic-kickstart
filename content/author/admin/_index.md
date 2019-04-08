@@ -27,7 +27,8 @@ interests = [
   "Spatial Statistics",
   "Spatial Econometrics",
   "GIScience",
-  "Regional Science"
+  "Regional Science",
+  "Disaster Vulnerability&Resilience"
 ]
 
 # Organizational groups that you belong to (for People widget)
