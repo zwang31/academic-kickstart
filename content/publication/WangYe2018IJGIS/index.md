@@ -1,9 +1,9 @@
 +++
-title = "An example journal article"
-date = 2015-09-01T00:00:00
+title = "Social media analytics for natural disaster management"
+date = 2017-08-22
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin"]
+authors = ["Zheye Wang", "Xinyue Ye"]
 
 # Publication type.
 # Legend:
@@ -19,24 +19,24 @@ authors = ["admin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Source Themes, 1*(1)"
+publication = "*International Journal of Geographical Information Science, 32*(1)"
 publication_short = ""
 
 # Abstract.
-abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida."
+abstract = "Social media analytics has become prominent in natural disaster management. In spite of a large variety of metadata fields in social media data, four dimensions (i.e. space, time, content and network) have been given particular attention for mining useful information to gain situational awareness and improve disaster response. In this article, we review how existing studies analyze these four dimensions, summarize common techniques for mining these dimensions, and then suggest some methods accordingly. We then propose a schema to categorize the gathered articles into 15 classes and facilitate the generation of data analysis tasks. We find that (1) a large part of studies involve multiple dimensions of social media data in their analyses, (2) there are both separate analyses for each dimension and simultaneous analyses for multiple dimensions and (3) there are fewer simultaneous analyses as dimensions increase. Finally, we suggest research opportunities and challenges in fusing social media data with authoritative datasets, i.e. census data and remote-sensing data."
 
 # Summary. An optional shortened abstract.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum."
+#summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum."
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1080/13658816.2017.1367003"
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Source Themes"]
+tags = []
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -52,10 +52,10 @@ projects = []
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example-slides"
+slides = ""
 
 # Links (optional).
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+url_pdf = "https://www.tandfonline.com/doi/full/10.1080/13658816.2017.1367003"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -72,7 +72,7 @@ url_source = ""
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
