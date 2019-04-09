@@ -23,15 +23,7 @@ publication = "*Cartography and Geographic Information Science, 46*(4)"
 publication_short = ""
 
 # Abstract.
-abstract = "Various methods have been developed to investigate the geospatial information, temporal
-component, and message content in disaster-related social media data to enrich human-centric
-information for situational awareness. However, few studies have simultaneously analyzed these
-three dimensions (i.e. space, time, and content). With an attempt to bring a space–time perspective into situational awareness, this study develops a novel approach to integrate space, time, and
-content dimensions in social media data and enable a space–time analysis of detailed social
-responses to a natural disaster. Using Markov transition probability matrix and location quotient,
-we analyzed the Hurricane Sandy tweets in New York City and explored how people’s conversational topics changed across space and over time. Our approach offers potential to facilitate
-efficient policy/decision-making and rapid response in mitigations of damages caused by natural
-disasters."
+abstract = "Various methods have been developed to investigate the geospatial information, temporal component, and message content in disaster-related social media data to enrich human-centric information for situational awareness. However, few studies have simultaneously analyzed these three dimensions (i.e. space, time, and content). With an attempt to bring a space–time perspective into situational awareness, this study develops a novel approach to integrate space, time, and content dimensions in social media data and enable a space–time analysis of detailed social responses to a natural disaster. Using Markov transition probability matrix and location quotient, we analyzed the Hurricane Sandy tweets in New York City and explored how people’s conversational topics changed across space and over time. Our approach offers potential to facilitate efficient policy/decision-making and rapid response in mitigations of damages caused by natural disasters."
 
 # Summary. An optional shortened abstract.
 #summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum."
