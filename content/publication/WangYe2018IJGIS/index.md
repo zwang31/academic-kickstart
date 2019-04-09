@@ -1,6 +1,6 @@
 +++
 title = "Social media analytics for natural disaster management"
-date = 2017-08-22
+date = 2018-01-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Zheye Wang", "Xinyue Ye"]
