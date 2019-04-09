@@ -19,7 +19,7 @@ authors = ["Zheye Wang", "Xinyue Ye"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Cartography and Geographic Information Science, 46*(4):334-346"
+publication = "*Cartography and Geographic Information Science, 46*(4)"
 publication_short = ""
 
 # Abstract.
