@@ -1,6 +1,6 @@
 +++
 title = "Spatial, temporal, and content analysis of Twitter for wildfire hazards"
-date = 2018-04-30
+date = 2016-04-30
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Zheye Wang", "Xinyue Ye", "Ming-Hsiang Tsou"]
