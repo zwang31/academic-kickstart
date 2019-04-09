@@ -16,6 +16,5 @@ user_groups = ["Principal Investigators",
                "Administration",
                "Visitors",
                "Alumni"]         
-Zheye Wang = "Researchers"
 +++
 
