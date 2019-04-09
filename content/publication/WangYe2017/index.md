@@ -19,7 +19,7 @@ authors = ["Zheye Wang", "Xinyue Ye"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Cartography and Geographic Information Science, 46*(4)"
+publication = "*Spatial Statistics, 21*(1)"
 publication_short = ""
 # Abstract.
 abstract = "Chinese central government promised to reduce its  emissions intensity by 40%–45% by 2020 compared to the level of 2005. However, with limited knowledge on local  emissions, the government could hardly decompose its mitigation plan to local administrative divisions. In this paper, we first interpolate the provincial  emissions to prefectural cities with a combination of areal interpolation method and DMSP/OLS nighttime light data. Then, we test the EKC hypothesis with this city-level data and spatial econometric modeling. This research reveals an uneven landscape of  emissions at both provincial and city scales, suggesting a differentiated decomposition of the mitigation target in China. The city-level monotonic increasing relationship between GDP per capita and  emissions per capita confirmed by our EKC test indicates that  emissions would not decrease automatically as income increases. To that end, actions such as improving the energy efficiency and implementing carbon taxes should be taken to reduce  emissions."
