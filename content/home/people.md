@@ -6,8 +6,8 @@ active = true
 date = "2017-11-18"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "[People](/member)"
-#title = "People"
+#title = "[People](/member)"
+title = "People"
 #subtitle = "We are growing! Reach out if you are interested in joining the lab."
 
 # Order that this section will appear in.
