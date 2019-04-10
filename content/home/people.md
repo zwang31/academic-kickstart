@@ -1,28 +1,22 @@
 +++
-# Info
-#widget = "custom"
-widget = "people"
-active = true
-date = "2017-11-18"
+# People widget.
+widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 68  # Order that this section will appear.
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-#title = "[People](/member)"
 title = "People"
-#subtitle = "We are growing! Reach out if you are interested in joining the lab."
+subtitle = ""
 
-# Order that this section will appear in.
-weight = 68
-
-[[member]]
-	id = "Tobias Gerstenberg"
-	position = "Principal investigator"
-	#image = "tobias_gerstenberg.jpg"
-	email = "gerstenberg@stanford.edu"
-	#twitter = "tobigerstenberg"
-	#github = "tobiasgerstenberg"
-	#scholar = "citations?user=d0TfP8EAAAAJ&hl=en&oi=ao"
-	#cv = "tobias_gerstenberg.pdf"
-	#website = "tobias_gerstenberg"
-	description = "I am interested in how people hold others responsible, how these judgments are grounded in causal representations of the world, and supported by counterfactual simulations. I also like to drink tea."
+# List user groups to display.
+#   Edit each user's `user_groups` to add them to one or more of these groups.
+user_groups = ["Principal Investigators",
+               "Researchers",
+               "Grad Students",
+               "Administration",
+               "Visitors",
+               "Alumni"]
+id = "Zheye Wang" position = "Research Associate"
 +++
+
 
